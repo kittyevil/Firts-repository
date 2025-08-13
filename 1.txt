@@ -1,0 +1,13 @@
+NOTAS Y APUNTES IMPORTANTES:
+
+-El codigo para nombrar etiquetas es: &lt; (
+(todos los codigo que se quieran utilizar, empiezan con & y terminan en ;
+- $lt     menor que           <
+
+$lte    menor igual que     <=       Tus campos deben ser numéricos, para poder hacer la comparación con los operadores gte,lte,gt,lt, etc.
+
+$gt     mayor que           >
+
+$gte    mayor igual que     >=
+
+$ne     no igual            ¡=

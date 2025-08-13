@@ -1,0 +1,7 @@
+1- Funciones primitivas (func.de lenguaje python)
+Ejemplo: print, int, range, variables,ciclos, acumuladores, fun.recursiva-fibonacci (que es)
+Fun.recursiva: funcion que se llama asi misma 
+Condicionales:else y if
+
+2-Ternarios y banderas (flags)
+
